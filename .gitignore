@@ -133,3 +133,5 @@ dmypy.json
 *.json
 
 *.pth
+
+*.db
