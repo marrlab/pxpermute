@@ -13,4 +13,6 @@ class MinMaxScaler(object):
         return tensor_
 
     def __repr__(self):
-        return self.__class__.__name__ + '(min_out={0}, max_out={1})'.format(self.min_out, self.max_out)
+        return self.__class__.__name__ + "(min_out={0}, max_out={1})".format(
+            self.min_out, self.max_out
+        )
