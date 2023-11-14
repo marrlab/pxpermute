@@ -2,9 +2,13 @@
 
 Imaging Flow Cytometry (IFC) allows rapid acquisition of numerous single-cell images per second, capturing information from multiple fluorescent channels. However, the traditional process of staining cells with fluorescently labeled conjugated antibodies for IFC analysis is time-consuming, expensive, and potentially harmful to cell viability. To streamline experimental workflows and reduce costs, it is crucial to identify the most relevant channels for downstream analysis. In this study, we introduce PXPermute, a user-friendly and powerful method for assessing the significance of IFC channels, particularly for cell profiling. Our approach evaluates channel importance by permuting pixel values within each channel and analyzing the resulting impact on machine learning or deep learning models. Through rigorous evaluation of three multi-channel IFC image datasets, we demonstrate PXPermute's potential in accurately identifying the most informative channels, aligning with established biological knowledge. To facilitate systematic investigations of channel importance and assist biologists in optimizing their experimental designs and finding the best biomarkers, we have released PXPermute as an easy-to-use open-source Python package.
 
-## Documentation
+## Using the code directly
 
-For documentation, please refer to [python](python)#
+For documentation, please refer to [python](python)
+
+## Replicating the results
+
+There are multiple folders which one can follow up based on the Jupyter Notebooks.
 
 ## Contributing
 
