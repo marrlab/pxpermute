@@ -1,0 +1,11 @@
+method,Fold,apoptotic,synapse,white_blood_cell
+train,1,389,577,1644
+train,2,297,623,1640
+train,3,345,596,1588
+train,4,314,1080,1738
+train,5,369,613,1665
+pxpermute,1,158,991,3802
+pxpermute,2,167,1025,3605
+pxpermute,3,169,1025,3596
+pxpermute,4,156,1026,5004
+pxpermute,5,169,974,3576
